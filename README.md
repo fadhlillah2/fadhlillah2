@@ -25,6 +25,7 @@ With a background of multiple years of experience in the industry, I've develope
 - Email: fadhlillah949699@gmail.com ( mailto:fadhlillah949699@gmail.com )
 - LinkedIn: Fadhlillah . ( https://www.linkedin.com/in/fadhlillah2 )
 - Leetcode: https://leetcode.com/fadhlillah949699
+- phone number: (+62) 85157043131
 - Instagram: dante.ncm
 
 ## 📈 GitHub Stats
