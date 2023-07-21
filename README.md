@@ -30,4 +30,4 @@ With a background of multiple years of experience in the industry, I've develope
 
 ![Your Name's GitHub stats](https://github-readme-stats.vercel.app/api?username=fadhlillah2&show_icons=true&theme=radical)
 
-⭐️ From Fadhlillah (https://github.com/fadhlillah2)
+⭐️ From Fadhlillah ( https://github.com/fadhlillah2 )
