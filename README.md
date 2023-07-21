@@ -22,6 +22,21 @@ I'm John Doe (he/him), a passionate software engineer who thrives on solving com
 
 💡 My main goal is to contribute to open-source projects that aim to make a significant impact on society and help newcomers on their journey in the tech world.
 
+
+Please replace "John Doe", "johndoe", and "johndoe@example.com" with your real name, username, and email, respectively.
+
+The profile contains the following sections:
+
+- Brief personal introduction
+- List of languages and tools
+- Brief about career, principles, and experiences
+- Personal goal and passions
+- Contact information
+- GitHub stats
+
+Also, the URL for GitHub stats needs to be replaced with the actual URL that provides the stats for the desired GitHub user. The theme can also be changed according to preference.
+
+
 👥 I enjoy teamwork, and I believe that great things are never done by one person, they're done by a team of people.
 
 💬 Feel free to ask me about anything, I am happy to help!
