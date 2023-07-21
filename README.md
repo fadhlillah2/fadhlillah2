@@ -22,12 +22,12 @@ With a background in computer science and multiple years of experience in the in
 
 ## 🌎 How to reach me
 
-- Email: fadhlillah949699@gmail.com(mailto:your-email@example.com)
-- LinkedIn: https://www.linkedin.com/in/fadhlillah2/
+- Email: fadhlillah949699@gmail.com(mailto:fadhlillah949699@gmail.com)
+- LinkedIn: Fadhlillah . (https://www.linkedin.com/in/fadhlillah2/)
 - Twitter: [@YourTwitterHandle](https://twitter.com/YourTwitterHandle)
 
 ## 📈 GitHub Stats
 
-![Your Name's GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
+![Your Name's GitHub stats](https://github-readme-stats.vercel.app/api?username=fadhlillah2&show_icons=true&theme=radical)
 
-⭐️ From [Your Name](https://github.com/yourusername)
+⭐️ From [Your Name](https://github.com/fadhlillah2)
