@@ -5,15 +5,15 @@ I'm a seasoned software engineer with a passion for crafting robust and scalable
 ## 🚀 Skills
 
 - Proficient in `Java`, `GoLang`, and `JavaScript`.
-- Extensive experience with frameworks like `Spring Boot`, `Gin`, and `Express.js`.
-- Front-end development using `React.js`, `Vue.js`, and native `JavaScript`.
+- Extensive experience with frameworks like `Spring Boot`, `Quarkus`, `Gin`, `Echo`, `Node.js`, and `Express.js`.
+- Front-end development using `React.js`, and native/vanilla `JavaScript`.
 - Containerization technologies: `Docker` & `Kubernetes`.
-- Cloud platforms: `AWS`, `GCP`, `Azure`.
+- Cloud platforms: `AWS`, `Azure`.
 
 ## 🌱 What I'm currently learning
 
 - Expanding my `GoLang` skills and diving deeper into `Microservices Architecture`.
-- Exploring `Rust` for system programming.
+- Exploring `C++` for system programming.
 - Experimenting with `TensorFlow` and `PyTorch` for AI and ML projects.
 
 ## 💼 Professional Experience
