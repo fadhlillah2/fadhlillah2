@@ -1,4 +1,4 @@
-# Hey, there! 👋 I'm Fadhlillah (https://yourpersonalwebsite.com/)
+# Hey, there! 👋 I'm Fadhlillah (https://fadhlillah2.github.io/Bio/)
 
 I'm a seasoned software engineer with a passion for crafting robust and scalable solutions that help businesses thrive. With a profound understanding of Java, GoLang, and JavaScript, I strive to bring creative ideas to life through code. 
 
@@ -22,7 +22,7 @@ With a background in computer science and multiple years of experience in the in
 
 ## 🌎 How to reach me
 
-- Email: fadhlillah949699@gmail.com(mailto:fadhlillah949699@gmail.com)
+- Email: fadhlillah949699@gmail.com (mailto:fadhlillah949699@gmail.com)
 - LinkedIn: Fadhlillah . (https://www.linkedin.com/in/fadhlillah2/)
 - Twitter: [@YourTwitterHandle](https://twitter.com/YourTwitterHandle)
 
