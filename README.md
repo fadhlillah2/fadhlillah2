@@ -24,7 +24,7 @@ With a background of multiple years of experience in the industry, I've develope
 
 - Email: fadhlillah949699@gmail.com (mailto:fadhlillah949699@gmail.com)
 - LinkedIn: Fadhlillah . (https://www.linkedin.com/in/fadhlillah2/)
-- Twitter: [@YourTwitterHandle](https://twitter.com/YourTwitterHandle)
+- Instagram: dante.ncm
 
 ## 📈 GitHub Stats
 
