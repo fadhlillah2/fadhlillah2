@@ -1,4 +1,4 @@
-# Hey, there! 👋 I'm [Your Name](https://yourpersonalwebsite.com/)
+# Hey, there! 👋 I'm Fadhlillah (https://yourpersonalwebsite.com/)
 
 I'm a seasoned software engineer with a passion for crafting robust and scalable solutions that help businesses thrive. With a profound understanding of Java, GoLang, and JavaScript, I strive to bring creative ideas to life through code. 
 
@@ -22,8 +22,8 @@ With a background in computer science and multiple years of experience in the in
 
 ## 🌎 How to reach me
 
-- Email: [your-email@example.com](mailto:your-email@example.com)
-- LinkedIn: [Your Name](https://www.linkedin.com/in/yourname/)
+- Email: fadhlillah949699@gmail.com(mailto:your-email@example.com)
+- LinkedIn: https://www.linkedin.com/in/fadhlillah2/
 - Twitter: [@YourTwitterHandle](https://twitter.com/YourTwitterHandle)
 
 ## 📈 GitHub Stats
