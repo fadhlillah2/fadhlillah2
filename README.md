@@ -1,16 +1,19 @@
 ### Hi there 👋
 
-<!--
-**fadhlillah2/fadhlillah2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hello there! 👋 
 
-Here are some ideas to get you started:
+I'm John Doe (he/him), a passionate software engineer who thrives on solving complex problems and building efficient, scalable software solutions. I've mastered the art of writing clean, maintainable code in Java, GoLang, and JavaScript and enjoy every bit of the development lifecycle, from concept to deployment.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🔭 Languages and Tools
+
+```diff
++ Java
++ GoLang
++ JavaScript
++ Spring Boot
++ Node.js
++ React.js
++ Docker
++ Kubernetes
++ AWS
+
