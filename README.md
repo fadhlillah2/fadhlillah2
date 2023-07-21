@@ -1,4 +1,4 @@
-# Hey, there! 👋 I'm Fadhlillah ( https://fadhlillah2.github.io/Bio/ )
+# Hey, there! 👋 I'm Fadhlillah ( https://fadhlillah2.github.io/Bio )
 
 I'm a seasoned software engineer with a passion for crafting robust and scalable solutions that help businesses thrive. With a profound understanding of Java, GoLang, and JavaScript, I strive to bring creative ideas to life through code. 
 
@@ -23,7 +23,7 @@ With a background of multiple years of experience in the industry, I've develope
 ## 🌎 How to reach me
 
 - Email: fadhlillah949699@gmail.com ( mailto:fadhlillah949699@gmail.com )
-- LinkedIn: Fadhlillah . ( https://www.linkedin.com/in/fadhlillah2/ )
+- LinkedIn: Fadhlillah . ( https://www.linkedin.com/in/fadhlillah2 )
 - Instagram: dante.ncm
 
 ## 📈 GitHub Stats
