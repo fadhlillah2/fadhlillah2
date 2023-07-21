@@ -18,7 +18,7 @@ I'm a seasoned software engineer with a passion for crafting robust and scalable
 
 ## 💼 Professional Experience
 
-With a background in computer science and multiple years of experience in the industry, I've developed and deployed enterprise-level applications, designed RESTful APIs, and created intuitive UI/UX. Check out my repositories to see some of my work.
+With a background of multiple years of experience in the industry, I've developed and deployed enterprise-level applications, designed RESTful APIs, and created intuitive UI/UX. Check out my repositories to see some of my work.
 
 ## 🌎 How to reach me
 
