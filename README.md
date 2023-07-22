@@ -13,7 +13,7 @@ I'm a seasoned software engineer with a passion for crafting robust and scalable
 ## 🌱 What I'm currently learning
 
 - Expanding my `GoLang` skills and diving deeper into `Microservices Architecture`.
-- Exploring `C++` for system programming.
+- Exploring `next.js` for fullstack system programming.
 - Experimenting with `TensorFlow` and `PyTorch` for AI and ML projects.
 
 ## 💼 Professional Experience
