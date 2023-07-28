@@ -24,7 +24,7 @@ With a background of multiple years of experience in the industry, I've develope
 
 - Email: fadhlillah949699@gmail.com ( mailto:fadhlillah949699@gmail.com )
 - LinkedIn: Fadhlillah . ( https://www.linkedin.com/in/fadhlillah2 )
-- Leetcode: https://leetcode.com/fadhlillah949699
+- Leetcode: https://leetcode.com/orion_omniscient
 - phone number (whatsapp): (+62) 85157043131
 - Instagram: orion_omniscient ( https://www.instagram.com/orion_omniscient )
 
