@@ -26,7 +26,7 @@ With a background of multiple years of experience in the industry, I've develope
 - LinkedIn: Fadhlillah . ( https://www.linkedin.com/in/fadhlillah2 )
 - Leetcode: https://leetcode.com/fadhlillah949699
 - phone number (whatsapp): (+62) 85157043131
-- Instagram: Dante.ncm
+- Instagram: orion_omniscient
 
 ## 📈 GitHub Stats
 
