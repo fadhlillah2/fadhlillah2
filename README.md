@@ -6,7 +6,7 @@ I'm a seasoned software engineer with a passion for crafting robust and scalable
 
 - Proficient in `Java`, `GoLang`, and `JavaScript`.
 - Extensive experience with frameworks like `Spring Boot`, `Quarkus`, `Gin`, `Echo`, `Node.js`, `Loopback.js`, and `Express.js`.
-- Front-end development using `React.js`, `Thymeleaf`, and native/vanilla `JavaScript`.
+- Front-end development using `React.js`, `Thymeleaf`, and native / vanilla `JavaScript`.
 - Containerization technologies: `Docker` & `Kubernetes`.
 - Cloud platforms: `AWS`, `Azure`.
 
