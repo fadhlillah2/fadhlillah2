@@ -28,8 +28,5 @@ With a background of multiple years of experience in the industry, I've develope
 - phone number (whatsapp): (+62) 85157043131
 - Instagram: orion_omniscient ( https://www.instagram.com/orion_omniscient )
 
-## 📈 GitHub Stats
-
-![Your Name's GitHub stats](https://github-readme-stats.vercel.app/api?username=fadhlillah2&show_icons=true&theme=radical)
 
 ⭐️ From Fadhlillah ( https://github.com/fadhlillah2 )
