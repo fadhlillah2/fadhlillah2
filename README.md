@@ -1,4 +1,4 @@
-# Fadhlillah — Backend Architect & AI Systems Specialist
+# Fadhlillah — Full-Stack Software Engineer & AI Integration Specialist
 
 **5 years building enterprise systems for 100K+ users**
 
@@ -6,7 +6,7 @@
 
 ## 🎯 Who I Am
 
-Backend engineer obsessed with **optimization** + **AI integration**.
+Full-Stack Software Engineer obsessed with **optimization** + **AI integration**.
 
 **Distinctive expertise:**
 - 🚀 **700% faster reports** — Complex query & indexing optimization
