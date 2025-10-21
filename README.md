@@ -1,32 +1,52 @@
-# Hey, there! 👋 I'm Fadhlillah ( https://fadhlillah2.github.io/Bio )
+# Fadhlillah — Backend Architect & AI Systems Specialist
 
-I'm a seasoned software engineer with a passion for crafting robust and scalable solutions that help businesses thrive. With a profound understanding of Java, GoLang, and JavaScript, I strive to bring creative ideas to life through code. 
+**5 years building enterprise systems for 100K+ users**
 
-## 🚀 Skills
+---
 
-- Proficient in `Java`, `GoLang`, and `JavaScript`.
-- Extensive experience with frameworks like `Spring Boot`, `Quarkus`, `Gin`, `Echo`, `Node.js`, `Loopback.js`, and `Express.js`.
-- Front-end development using `React.js`, `Thymeleaf`, and native / vanilla `JavaScript`.
-- Containerization technologies: `Docker` & `Kubernetes`.
-- Cloud platforms: `AWS`, `Azure`.
+## 🎯 Who I Am
 
-## 🌱 What I'm currently learning
+Backend engineer obsessed with **optimization** + **AI integration**.
 
-- Expanding my `GoLang` skills and diving deeper into `Microservices Architecture`.
-- Exploring `next.js` for fullstack system programming.
-- Experimenting with `TensorFlow` and `PyTorch` for AI and ML projects.
+**Distinctive expertise:**
+- 🚀 **700% faster reports** — Complex query & indexing optimization
+- 🤖 **Top 50 LLaMA Hackathon** — Production-grade LLM systems
+- 🏗️ **100K+ scale systems** — 100+ APIs, 99.9% uptime
+- ⚡ **40% faster delivery** — AI-assisted development
 
-## 💼 Professional Experience
+I don't just build systems—I optimize them and make them smarter with AI.
 
-With a background of multiple years of experience in the industry, I've developed and deployed enterprise-level applications, designed RESTful APIs, and created intuitive UI/UX. Check out my repositories to see some of my work.
+---
 
-## 🌎 How to reach me
+## 🛠️ Tech Stack
 
-- Email: fadhlillah949699@gmail.com ( mailto:fadhlillah949699@gmail.com )
-- LinkedIn: Fadhlillah . ( https://www.linkedin.com/in/fadhlillah2 )
-- Leetcode: https://leetcode.com/orion_omniscient
-- phone number (whatsapp): (+62) 85157043131
-- Instagram: orion_omniscient ( https://www.instagram.com/orion_omniscient )
+**Languages:** Java, Python, Golang, JavaScript  
+**Backend:** Spring Boot, Quarkus, Node.js, Flask, Gin
+**Frontend:** Angular, Flutter
+**Data:** PostgreSQL, MongoDB, Kafka, Redis  
+**Cloud:** Docker, AWS  
+**AI:** LangChain, RAG, LLM Integration
 
+---
 
-⭐️ From Fadhlillah ( https://github.com/fadhlillah2 )
+## 🏆 Notable Work
+
+| Project | Impact | Tech |
+|---------|--------|------|
+| **High-Precision-Contract-Advisor-RAG** | Top 50 / 500+ LLaMA Hackathon | Python, LangChain, RAG |
+| **SFTP Automation** | 99.9% success, 10-day deployment | Spring Boot, AI-assist |
+| **Order Processing System** | 10K+ daily transactions | Kafka, PostgreSQL, Java |
+
+[See all projects →](https://github.com/fadhlillah2?tab=repositories)
+
+---
+
+## 💬 Let's Connect
+
+- 📧 [fadhlillah949699@gmail.com](mailto:fadhlillah949699@gmail.com)
+- 💼 [LinkedIn](https://www.linkedin.com/in/fadhlillah2)
+- 📱 [+62 851 5704 3131](https://wa.me/6285157043131)
+
+---
+
+**Building scalable, optimized systems that matter.**
