@@ -22,6 +22,7 @@ I don't just build systems—I optimize them and make them smarter with AI.
 
 **Languages:** Java, Python, Golang, JavaScript  
 **Backend:** Spring Boot, Quarkus, Node.js, Flask, Gin
+
 **Frontend:** Angular, Flutter
 **Data:** PostgreSQL, MongoDB, Kafka, Redis  
 **Cloud:** Docker, AWS  
