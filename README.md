@@ -1,4 +1,4 @@
-# Fadhlillah — Full-Stack Software Engineer & AI Integration Specialist
+# Fadhlillah — Software Engineer & AI Integration Specialist
 
 **5 years building enterprise systems for 100K+ users**
 
