@@ -6,7 +6,7 @@
 
 ## 🎯 Who I Am
 
-Full-Stack Software Engineer obsessed with **optimization** + **AI integration**.
+Backend Software Engineer obsessed with **optimization** + **AI integration**.
 
 **Distinctive expertise:**
 - 🚀 **700% faster reports** — Complex query & indexing optimization
