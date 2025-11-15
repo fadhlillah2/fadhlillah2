@@ -80,7 +80,7 @@ I build, optimize, and transform systems with AI.
     <td width="50%" valign="top">
       <h3 align="center">🤖 High-Precision Contract Advisor</h3>
       <div align="center">
-        <p><strong>🏆 Top 50 / 500+ Participants - LLaMA Hackathon</strong></p>
+        <p><strong>🏆 Top 50 / 300+ Team Participants - LLaMA Hackathon</strong></p>
         <p>
           <a href="https://github.com/fadhlillah2?tab=repositories">
             <img src="https://img.shields.io/badge/View_Project-181717?style=for-the-badge&logo=github&logoColor=white" alt="View Project"/>
@@ -182,12 +182,12 @@ I build, optimize, and transform systems with AI.
 ## 💼 Professional Impact
 
 ```text
-📈 Performance:        7x faster report generation
-🏗️  Scale:             100K+ active users
-🚀 Delivery:           40% faster with AI-assisted development
-⚡ Reliability:        99.9% system uptime
-🔧 APIs Built:         100+ production endpoints
-🎯 Success Rate:       99.9% automation reliability
+📈 Performance:         7x faster report generation
+🏗️ Scale:               100K+ active users
+🚀 Delivery:            40% faster with AI-assisted development
+⚡  Reliability:         99.9% system uptime
+🔧 APIs Built:          100+ production endpoints
+🎯 Success Rate:        99.9% automation reliability
 ```
 
 ---
