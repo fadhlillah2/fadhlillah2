@@ -20,7 +20,7 @@ Backend Software Engineer & AI Integration Specialist obsessed with **optimizati
 
 **Distinctive Expertise:**
 - 🚀 **7x faster reports** — Complex query & indexing optimization
-- 🤖 **Top 50 LLaMA Hackathon** — Production-grade LLM systems (500+ participants)
+- 🤖 **Top 50 LLaMA Hackathon** — Production-grade LLM systems (300+ team participants)
 - 🏗️ **100K+ scale systems** — 100+ APIs, 99.9% uptime
 - ⚡ **40% faster delivery** — AI-assisted development workflows
 
