@@ -1,10 +1,11 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2D9EF7&center=true&vCenter=true&width=600&lines=Software+Engineer;AI+Native+Engineer;Java+%C2%B7+Spring+Boot+%C2%B7+Microservices;2M%2B+requests%2Fday+at+sub-200ms" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2D9EF7&center=true&vCenter=true&width=600&lines=Software+Engineer;AI+Native+Engineer;Java+%C2%B7+Python+%C2%B7+JavaScript+%C2%B7+Go;2M%2B+requests%2Fday+at+sub-200ms" alt="Typing SVG" />
 </h1>
 
 <div align="center">
 
 [![Profile Views](https://komarev.com/ghpvc/?username=fadhlillah2&color=blueviolet&style=for-the-badge)](https://github.com/fadhlillah2)
+[![Resume](https://img.shields.io/badge/Resume-Download_PDF-2D9EF7?style=for-the-badge)](https://fadhlillah2.github.io/Bio/cv/resume-v8.3.pdf)
 [![Portfolio](https://img.shields.io/badge/Portfolio-fadhlillah2.github.io/Bio-149ddd?style=for-the-badge)](https://fadhlillah2.github.io/Bio/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fadhlillah2)
 [![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:fadhlillah949699@gmail.com)
@@ -24,7 +25,7 @@ Backend Software Engineer (6+ yrs) — deep in Java/Spring Boot, adaptable acros
 - 🚀 **2M+ requests/day at sub-200ms** — Spring Boot microservices in production banking
 - 🏗️ **12 microservices** (hexagonal architecture) handling **500k+ daily transactions**
 - 📈 **700% faster reports** — query tuning & materialized views on a healthcare platform
-- 🤖 **Top 50 — Meta Llama Hackathon 2025** (Hacktiv8 Indonesia) — production RAG system
+- 🤖 **Top 50 — Meta Llama Hackathon 2025** (Hacktiv8 Indonesia) — contract-analysis RAG system
 - ⚡ **SFTP platform shipped in 10 days** against a 17-day plan, using AI coding tools
 - 🧪 **95% test coverage** generated on core modules; documentation cycle time cut **40h → 4h**
 
@@ -103,10 +104,10 @@ Backend Software Engineer (6+ yrs) — deep in Java/Spring Boot, adaptable acros
           </a>
         </p>
         <p>
-          <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white"/>
-          <img src="https://img.shields.io/badge/ChromaDB-5A32A3?style=flat-square"/>
-          <img src="https://img.shields.io/badge/Groq_LLaMA_3.3_70B-F55036?style=flat-square"/>
-          <img src="https://img.shields.io/badge/EasyOCR-5C3EE8?style=flat-square"/>
+          <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white" alt="LangChain"/>
+          <img src="https://img.shields.io/badge/ChromaDB-5A32A3?style=flat-square" alt="ChromaDB"/>
+          <img src="https://img.shields.io/badge/Groq_LLaMA_3.3_70B-F55036?style=flat-square" alt="Groq LLaMA 3.3 70B"/>
+          <img src="https://img.shields.io/badge/EasyOCR-5C3EE8?style=flat-square" alt="EasyOCR"/>
         </p>
         <p>Contract-analysis RAG: LangChain + Flask pipeline with hybrid search over ChromaDB, HuggingFace embeddings, and EasyOCR ingestion for scanned Indonesian contracts. Next.js/TypeScript frontend.</p>
       </div>
@@ -121,10 +122,10 @@ Backend Software Engineer (6+ yrs) — deep in Java/Spring Boot, adaptable acros
           </a>
         </p>
         <p>
-          <img src="https://img.shields.io/badge/Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white"/>
-          <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white"/>
-          <img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white"/>
-          <img src="https://img.shields.io/badge/Flyway-CC0200?style=flat-square"/>
+          <img src="https://img.shields.io/badge/Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white" alt="Kafka"/>
+          <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white" alt="Redis"/>
+          <img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
+          <img src="https://img.shields.io/badge/Flyway-CC0200?style=flat-square" alt="Flyway"/>
         </p>
         <p>Kafka-based restaurant booking alert & notification system syncing orders with Kitchen Display and POS terminals. Redis caching cut DB queries by 60% during the dinner rush; Postgres migrations via Flyway on a staged rollout.</p>
       </div>
@@ -141,7 +142,7 @@ Backend Software Engineer (6+ yrs) — deep in Java/Spring Boot, adaptable acros
           </a>
         </p>
         <p>
-          <img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white"/>
+          <img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white" alt="Go"/>
         </p>
         <p>Rate limiting service implemented in Go with support for multiple algorithms and distributed deployments.</p>
       </div>
@@ -156,10 +157,10 @@ Backend Software Engineer (6+ yrs) — deep in Java/Spring Boot, adaptable acros
           </a>
         </p>
         <p>
-          <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white"/>
-          <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white"/>
-          <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/>
-          <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white"/>
+          <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB"/>
+          <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white" alt="Express"/>
+          <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React"/>
+          <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js"/>
         </p>
         <p>Context-aware MERN stack chatbot with a cosmic-themed UI that connects to various AI models including OpenAI, Mistral, and local LLM models.</p>
       </div>
@@ -189,13 +190,25 @@ Backend Software Engineer (6+ yrs) — deep in Java/Spring Boot, adaptable acros
 ## 💼 Professional Impact
 
 ```text
-🚀 Scale:        2M+ requests/day at sub-200ms — Spring Boot microservices
-🏦 Volume:       $10M+ daily financial volume; 48h reporting SLAs
-⚙️ Services:     12 microservices (hexagonal architecture), 500k+ daily transactions
-📈 Performance:  700% faster report generation via query tuning & materialized views
-🔧 APIs:         100+ production endpoints; 99.5% uptime
-🤖 AI at work:   documentation cycle 40h → 4h; 95% test coverage on core modules
+PT Bank Danamon — banking (Aug 2023 – present)
+  🚀 2M+ requests/day at sub-200ms — Spring Boot microservices
+  🏦 $10M+ daily financial volume; consistently meeting 48h reporting SLAs
+  ⚙️ 12 microservices (hexagonal architecture), 500k+ daily transactions
+  🤖 documentation cycle 40h → 4h; 95% test coverage on core modules
+
+Assist.id — healthcare (Jul 2020 – Feb 2023)
+  📈 700% faster report generation via query tuning & materialized views
+  🔧 100+ RESTful APIs; 99.5% uptime while resolving ~100 bugs/month
 ```
+
+---
+
+## 📜 Credentials
+
+- 🏆 **Meta Llama Hackathon 2025 — Top 50** · Hacktiv8 Indonesia · Credential ID `032/H8/META/XI/2025`
+- 🐍 **Machine Learning with Python** · freeCodeCamp (Nov 2025)
+- 🗄️ **SQL** · HackerRank (Feb 2023) · Credential ID `61C45ED8B59F`
+- 📚 Scientific Computing with Python · College Algebra with Python · JavaScript Algorithms & Data Structures (freeCodeCamp) · HTML, CSS & JavaScript training (Digital Talent Scholarship) · JavaScript Course (Progate)
 
 ---
 
@@ -215,12 +228,12 @@ Backend Software Engineer (6+ yrs) — deep in Java/Spring Boot, adaptable acros
 ---
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" alt="Footer banner"/>
 
   **Building scalable, optimized systems that matter.**
 
   <p>
-    <img src="https://img.shields.io/badge/Open_To-Remote_Opportunities-success?style=for-the-badge"/>
-    <img src="https://img.shields.io/badge/Available_For-Consulting-blue?style=for-the-badge"/>
+    <img src="https://img.shields.io/badge/Open_To-Remote_Opportunities-success?style=for-the-badge" alt="Open To"/>
+    <img src="https://img.shields.io/badge/Available_For-Consulting-blue?style=for-the-badge" alt="Available For"/>
   </p>
 </div>
