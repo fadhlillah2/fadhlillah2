@@ -109,7 +109,7 @@ Backend Software Engineer (6+ yrs) — deep in Java/Spring Boot, adaptable acros
           <img src="https://img.shields.io/badge/Groq_LLaMA_3.3_70B-F55036?style=flat-square" alt="Groq LLaMA 3.3 70B"/>
           <img src="https://img.shields.io/badge/EasyOCR-5C3EE8?style=flat-square" alt="EasyOCR"/>
         </p>
-        <p>Contract-analysis RAG: LangChain + Flask pipeline with hybrid search over ChromaDB, HuggingFace embeddings, and EasyOCR ingestion for scanned Indonesian contracts. Next.js/TypeScript frontend.</p>
+        <p>Contract-analysis RAG: LangChain + Flask pipeline with hybrid search over ChromaDB, Hugging Face embeddings, and EasyOCR ingestion for scanned Indonesian contracts. Next.js/TypeScript frontend.</p>
       </div>
     </td>
     <td width="50%" valign="top">
