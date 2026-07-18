@@ -5,7 +5,7 @@
 <div align="center">
 
 [![Profile Views](https://komarev.com/ghpvc/?username=fadhlillah2&color=blueviolet&style=for-the-badge)](https://github.com/fadhlillah2)
-[![Resume](https://img.shields.io/badge/Resume-Download_PDF-2D9EF7?style=for-the-badge)](https://fadhlillah2.github.io/Bio/cv/resume-v8.4.pdf)
+[![Resume](https://img.shields.io/badge/Resume-Download_PDF-2D9EF7?style=for-the-badge)](https://fadhlillah2.github.io/Bio/cv/resume-v8.5.pdf)
 [![Portfolio](https://img.shields.io/badge/Portfolio-fadhlillah2.github.io/Bio-149ddd?style=for-the-badge)](https://fadhlillah2.github.io/Bio/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fadhlillah2)
 [![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:fadhlillah949699@gmail.com)
