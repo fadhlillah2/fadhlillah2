@@ -4,11 +4,10 @@
 
 <div align="center">
 
-[![Profile Views](https://komarev.com/ghpvc/?username=fadhlillah2&color=blueviolet&style=for-the-badge)](https://github.com/fadhlillah2)
-[![Resume](https://img.shields.io/badge/Resume-Download_PDF-2D9EF7?style=for-the-badge)](https://fadhlillah2.github.io/Bio/cv/resume-v8.7.pdf)
-[![Portfolio](https://img.shields.io/badge/Portfolio-fadhlillah2.github.io/Bio-149ddd?style=for-the-badge)](https://fadhlillah2.github.io/Bio/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fadhlillah2)
-[![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:fadhlillah949699@gmail.com)
+[![Resume](https://img.shields.io/badge/Resume-Download_PDF-5ce1c6?style=for-the-badge&labelColor=0b0f17)](https://fadhlillah2.github.io/Bio/cv/resume-v8.7.pdf)
+[![Portfolio](https://img.shields.io/badge/Portfolio-fadhlillah2.github.io%2FBio-5ce1c6?style=for-the-badge&labelColor=0b0f17)](https://fadhlillah2.github.io/Bio/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&labelColor=0b0f17)](https://www.linkedin.com/in/fadhlillah2)
+[![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0b0f17)](mailto:fadhlillah949699@gmail.com)
 
 </div>
 
@@ -61,7 +60,7 @@ Backend Software Engineer (6+ yrs) — deep in Java/Spring Boot, adaptable acros
 ![RAG](https://img.shields.io/badge/RAG-FF6B6B?style=for-the-badge)
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
 ![ChromaDB](https://img.shields.io/badge/ChromaDB-5A32A3?style=for-the-badge)
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge)
 ![LLaMA](https://img.shields.io/badge/LLaMA-0467DF?style=for-the-badge&logo=meta&logoColor=white)
 ![Groq](https://img.shields.io/badge/Groq-F55036?style=for-the-badge)
 ![Cursor AI](https://img.shields.io/badge/Cursor_AI-000000?style=for-the-badge)
@@ -173,7 +172,7 @@ Backend Software Engineer (6+ yrs) — deep in Java/Spring Boot, adaptable acros
     <img src="https://img.shields.io/badge/View_All_Projects-181717?style=for-the-badge&logo=github&logoColor=white" alt="View All Projects"/>
   </a>
   <a href="https://fadhlillah2.github.io/Bio/">
-    <img src="https://img.shields.io/badge/Visit_Portfolio-149ddd?style=for-the-badge" alt="Visit Portfolio"/>
+    <img src="https://img.shields.io/badge/Visit_Portfolio-5ce1c6?style=for-the-badge&labelColor=0b0f17" alt="Visit Portfolio"/>
   </a>
 </div>
 
@@ -216,10 +215,10 @@ Assist.id — healthcare (Jul 2020 – Feb 2023)
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fadhlillah2)
-[![Email](https://img.shields.io/badge/Email-Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:fadhlillah949699@gmail.com)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-Chat-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/6285157043131)
-[![LeetCode](https://img.shields.io/badge/LeetCode-orion__omniscient-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/orion_omniscient)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&labelColor=0b0f17)](https://www.linkedin.com/in/fadhlillah2)
+[![Email](https://img.shields.io/badge/Email-Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0b0f17)](mailto:fadhlillah949699@gmail.com)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-Chat-25D366?style=for-the-badge&logo=whatsapp&logoColor=white&labelColor=0b0f17)](https://wa.me/6285157043131)
+[![LeetCode](https://img.shields.io/badge/LeetCode-orion__omniscient-FFA116?style=for-the-badge&logo=leetcode&logoColor=black&labelColor=0b0f17)](https://leetcode.com/orion_omniscient)
 
 **📧 fadhlillah949699@gmail.com**
 
@@ -233,7 +232,7 @@ Assist.id — healthcare (Jul 2020 – Feb 2023)
   **Building scalable, optimized systems that matter.**
 
   <p>
-    <img src="https://img.shields.io/badge/Open_To-Remote_Opportunities-success?style=for-the-badge" alt="Open To"/>
-    <img src="https://img.shields.io/badge/Available_For-Consulting-blue?style=for-the-badge" alt="Available For"/>
+    <img src="https://img.shields.io/badge/Open_To-Remote_Opportunities-2b3648?style=for-the-badge&labelColor=0b0f17" alt="Open To"/>
+    <img src="https://img.shields.io/badge/Available_For-Consulting-2b3648?style=for-the-badge&labelColor=0b0f17" alt="Available For"/>
   </p>
 </div>
