@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2D9EF7&center=true&vCenter=true&width=600&lines=Software+Engineer;AI+Native+Engineer;Java+%C2%B7+Python+%C2%B7+JavaScript+%C2%B7+Go;2M%2B+requests%2Fday+at+sub-200ms" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2D9EF7&center=true&vCenter=true&width=600&lines=Backend+Software+Engineer;AI+Native+Engineer;Java+%C2%B7+Python+%C2%B7+JavaScript+%C2%B7+Go;2M%2B+requests%2Fday+at+sub-200ms" alt="Typing SVG" />
 </h1>
 
 <div align="center">
@@ -15,7 +15,7 @@
 
 ---
 
-## 🎯 Who I Am
+## 🎯 Professional Profile
 
 Backend Software Engineer (6+ yrs) — deep in Java/Spring Boot, adaptable across the languages, domains and paradigms around it. Builds Spring Boot microservices serving **2M+ requests/day**, shipping in Python, Node, and Go across healthcare, F&B, and fintech as each problem demands. Builds LLM-integrated products end to end: **RAG systems, AI chatbots, internal automation**. **Top 50 at the LLaMA Hackathon** — equally at home in regulated enterprise systems and fast-moving AI builds.
 
@@ -32,7 +32,7 @@ Backend Software Engineer (6+ yrs) — deep in Java/Spring Boot, adaptable acros
 
 ## 🔭 Currently Working On
 
-- 🏦 Operating Spring Boot microservices at PT Bank Danamon — financial systems processing **$10M+ daily volume** with 48h reporting SLAs
+- 🛠️ Backend engineering for FOX Asset (Infinity Wave Sdn Bhd, freelance) — Django REST Framework modules on a multi-tenant CMMS SaaS
 - 🤖 LLM-integrated products end to end — RAG systems, AI chatbots, internal automation
 - ⚡ AI-augmented engineering workflows — automated documentation & test generation
 
@@ -189,9 +189,13 @@ Backend Software Engineer (6+ yrs) — deep in Java/Spring Boot, adaptable acros
 ## 💼 Professional Impact
 
 ```text
-PT Bank Danamon — banking (Aug 2023 – present)
+FOX Asset — Infinity Wave Sdn Bhd — CMMS SaaS (Dec 2025 – present, freelance)
+  🛠️ Safety Hub: 23 Django data models, 50+ REST endpoints; Project Management: 21 endpoints, 10 models
+  🧪 196 unit tests (Project Management) + 105 (Safety Hub); AWS/CI/CD hardening with gitleaks
+
+PT Bank Danamon — banking (Aug 2023 – Aug 2026)
   🚀 2M+ requests/day at sub-200ms — Spring Boot microservices
-  🏦 $10M+ daily financial volume; consistently meeting 48h reporting SLAs
+  🏦 iRecon reconciliation platform (Java/GWT, 660+ classes); reporting tuned to meet 48-hour SLAs
   ⚙️ 12 microservices (hexagonal architecture), 500k+ daily transactions
   🤖 documentation cycle 40h → 4h; 95% test coverage on core modules
 
