@@ -21,20 +21,20 @@ Backend Software Engineer (6+ yrs) — deep in Java/Spring Boot, adaptable acros
 
 **Highlights:**
 
-- 🚀 **2M+ requests/day at sub-200ms** — Spring Boot microservices in production banking
-- 🏗️ **12 microservices** (hexagonal architecture) handling **500k+ daily transactions**
-- 📈 **700% faster reports** — query tuning & materialized views on a healthcare platform
-- 🤖 **Top 50 — Meta Llama Hackathon 2025** (Hacktiv8 Indonesia) — contract-analysis RAG system
-- ⚡ **SFTP platform shipped in 10 days** against a 17-day plan, using AI coding tools
-- 🧪 **95% test coverage** generated on core modules; documentation cycle time cut **40h → 4h**
+- **2M+ requests/day at sub-200ms** — Spring Boot microservices in production banking
+- **12 microservices** (hexagonal architecture) handling **500k+ daily transactions**
+- **700% faster reports** — query tuning & materialized views on a healthcare platform
+- **Top 50 — Meta Llama Hackathon 2025** (Hacktiv8 Indonesia) — contract-analysis RAG system
+- **SFTP platform shipped in 10 days** against a 17-day plan, using AI coding tools
+- **95% test coverage** generated on core modules; documentation cycle time cut **40h → 4h**
 
 ---
 
 ## 🔭 Currently Working On
 
-- 🛠️ Backend engineering for FOX Asset (Infinity Wave Sdn Bhd, freelance) — Django REST Framework modules on a multi-tenant CMMS SaaS
-- 🤖 LLM-integrated products end to end — RAG systems, AI chatbots, internal automation
-- ⚡ AI-augmented engineering workflows — automated documentation & test generation
+- Backend engineering for FOX Asset (Infinity Wave Sdn Bhd, freelance) — Django REST Framework modules on a multi-tenant CMMS SaaS
+- LLM-integrated products end to end — RAG systems, AI chatbots, internal automation
+- AI-augmented engineering workflows — automated documentation & test generation
 
 ---
 
